@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Em Perspectiva</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>https://www.emperspectiva.org/</link>
+    <atom:link href="https://www.emperspectiva.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Jan 2019 20:59:47 -0200</pubDate>
+    <lastBuildDate>Wed, 30 Jan 2019 20:59:47 -0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>[Palestra] Meetup IA</title>
+        <description>&lt;p&gt;Participamos de uma palestra rápida no &lt;a href=&quot;https://www.meetup.com/ai-brasil/events/245001891/?eventId=245001891&quot;&gt;Meetup do AI Brasil&lt;/a&gt;, uma comunidade focada em inteligência artificial na prática. O objetivo do Meetup é democratizar o uso da Inteligência Artificial, unindo a comunidade às empresas, indivíduos, instituições e outros que tenham interesse.&lt;/p&gt;
+
+&lt;p&gt;Durante o Encontro #6, realizado no Cubo em São Paulo, trouxemos os princípios do Menlo Report como pano de fundo para uma discussão sobre ética em Inteligência Artificial.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Dec 2017 00:00:00 -0200</pubDate>
+        <link>https://www.emperspectiva.org/2017/12/07/Palestra-IA-Brasil.html</link>
+        <guid isPermaLink="true">https://www.emperspectiva.org/2017/12/07/Palestra-IA-Brasil.html</guid>
+        
+        <category>event</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Inteligência Artificial e Aprendizado de Máquina</title>
+        <description>&lt;p&gt;Inteligência Artificial é um campo de estudo que surgiu na década de 50 e estuda máquinas e sistemas capazes de exibir comportamentos normalmente associados ao homem, como aprendizado e resolução de problemas. Algumas linhas de estudo de Inteligência Artificial são mais focadas em reproduzir a maneira como pensamos e raciocinamos, enquanto outras se concentram no entendimento e simulação de comportamento.&lt;/p&gt;
+
+&lt;p&gt;Quando se fala em Inteligência Artificial, é muito comum pensar no &lt;a href=&quot;http://www.imdb.com/title/tt0212720/&quot;&gt;filme do Steven Spielberg&lt;/a&gt; ou em robôs exibindo comportamento humano. A realidade é que há inúmeras aplicações de Inteligência Artificial e algumas podem ser tão simples quanto um sistema capaz de fazer inferências. 
+Veja o exemplo a seguir.&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot;&gt;&lt;code&gt;&lt;b&gt;Sabe-se que:&lt;/b&gt;
+	Platão é um homem
+	Todo homem é mortal
+&lt;b&gt;Logo:&lt;/b&gt; 
+	Platão é mortal
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Este é um exemplo de aplicação de Inteligência Artificial: sistema simples de inferência. A partir fatos conhecidos, o sistema consegue entender que Platão é mortal, mesmo que a regra não esteja escrita.&lt;/p&gt;
+
+&lt;h3 id=&quot;automação-e-ia&quot;&gt;Automação e IA&lt;/h3&gt;
+
+&lt;p&gt;Um semáforo apresenta regras simples de comportamento: 30 segundos verde, 5 segundos amarelo e 30 segundos vermelho. Independentemente do que estiver acontecendo ao seu redor, o semáforo irá sempre realizar o mesmo comportamento, pois foi programado para realizar esse conjunto de ações de forma automática. Nesse caso não há um conjunto de regras inteligentes inseridas manualmente e nem mesmo aprendidas pelo sistema.&lt;/p&gt;
+
+&lt;p&gt;Estamos falando apenas de uma automação, não de uma aplicação de Inteligência Artificial.&lt;/p&gt;
+
+&lt;p&gt;Como seria então construir um semáforo de fato inteligente? Um sistema de semáforo inteligente poderia ter o objetivo de minimizar o tempo que pessoas e carros ficam parados esperando para atravessar o cruzamento. Ele poderia escolher ativamente quanto tempo seu estado deve permanecer em cada cor. Uma forma seria acoplar câmeras ao semáforo e, em tempo real, com base nas imagens, decidir quanto tempo permanecer em cada estado.&lt;/p&gt;
+
+&lt;h3 id=&quot;15-minutos-de-fama&quot;&gt;15 minutos de fama&lt;/h3&gt;
+&lt;p&gt;Mas se IA é um tema de estudo da década de 50, presente em universidades do mundo todo já há bastante tempo… o que mudou? Porque de repente só se fala nisso?&lt;/p&gt;
+
+&lt;p&gt;Para qualquer tipo de automação, a velocidade com que se toma uma decisão é sempre um gargalo. Hoje um simples é muito mais poderoso que um computador da década de 80. Quanto mais avançadas e acessíveis ficam as tecnologias de processamento e armazenamento de dados, mais poderosos ficam os sistemas de Inteligência Artificial, simplesmente porque eles conseguem tomar decisões mais complexas em tempo hábil. Imagine o poder computacional necessário para um carro autônomo decidir, em milésimos de segundos, se ele deve desviar para a direita ou para a esquerda, dado que há um obstáculo na pista.&lt;/p&gt;
+
+&lt;p&gt;Hoje, com pouco investimento é possível ter um servidor na nuvem capaz de reconhecer objetos em imagens. Isso sim é instrumento para uma Revolução.&lt;/p&gt;
+
+&lt;h3 id=&quot;aprendizado-de-máquina&quot;&gt;Aprendizado de Máquina&lt;/h3&gt;
+
+&lt;p&gt;Aprendizado de Máquina é uma área de estudo, subconjunto de Inteligência Artificial, que também existe desde a década de 50. É uma técnica bastante poderosa que está por trás de muitas das facilidades que usamos no dia a dia: da lista de filmes customizada no Netflix ao menor caminho no Google Maps, ou roteamento de cartas no Correio.&lt;/p&gt;
+
+&lt;p&gt;O que torna Aprendizado de Máquina tão interessante á a gama de desafios que ele é capaz de endereçar. Para se automatizar uma tarefa, o caminho tradicional é construir um programa com instruções explícitas do que deve ser feito. Para somar dois valores, por exemplo, o passo a passo é bastante claro.&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot;&gt;&lt;code&gt;&lt;b&gt;239 + 17 = ?&lt;/b&gt;
+&lt;b&gt;Algoritmo:&lt;/b&gt;
+1. Separam-se os algarismos de unidade
+2. Se a soma for maior que 10, liga o “vai-um” e remove 10 das unidades
+3. Continua somando as dezenas, “vai-um” e repetindo esta regra até que os algarismos terminem
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;O desafio surge quando a tarefa que se deseja automatizar não é facilmente descrita em passos. Por exemplo: como identificar se uma foto contém um objeto, uma pessoa ou um animal? Existem muitas técnicas clássicas para tentar responder perguntas desse tipo, mas nenhuma é tão eficiente quanto o Aprendizado de Máquina.&lt;/p&gt;
+
+&lt;p&gt;Algoritmos de Aprendizado de Máquina são programas capazes de aprender a realizar uma tarefa a partir de uma experiência, não a partir de instruções explícitas, como no caso anterior. Quanto mais dados (experiência) estiverem disponíveis, mais complexas podem ser as tarefas aprendidas e executadas por esses algoritmos. É nesse ponto que reside todo seu potencial.&lt;/p&gt;
+
+&lt;p&gt;Com a capacidade de armazenamento e processamento que temos hoje, e com facilidade de criação de soluções que incluem Aprendizado de Máquina, uma série de aplicações que antes só se via em filmes tornam-se possíveis. Carros e foguetes autônomos, cirurgias automatizadas, e traduções simultâneas, por exemplo, são exemplos reais, que ajudarão a levar nossa sociedade para outro patamar.&lt;/p&gt;
+
+&lt;h3 id=&quot;e-o-semáforo&quot;&gt;E o semáforo?&lt;/h3&gt;
+&lt;p&gt;Voltando-se para o exemplo do semáforo, poderia se utilizar Aprendizado de Máquina e um conjunto de dados, como quantidade de pessoas e carros parados por hora do dia. Dessa forma, ao invés de fornecer instruções específicas de comportamento, o semáforo poderia encontrar o tempo ótimo para cada hora do dia a partir da experiência (dados) anterior. Se no período da noite têm-se poucos pedestres, o sinal estende o tempo no estado verde. O contrário ocorre durante a tarde quando têm-se muitos pedestres e poucos carros.  No fim do dia o semáforo poderia se auto-avaliar e verificar o quanto sua estratégia realizada no dia foi efetiva e adaptar o seu comportamento para o dia seguinte.&lt;/p&gt;
+
+&lt;h3 id=&quot;começando-a-conversa&quot;&gt;Começando a conversa&lt;/h3&gt;
+&lt;p&gt;Por maiores que sejam os avanços tecnológicos, pesquisadores ainda acreditam que simular personalidade e consciência demanda muito mais que apenas dados e poder computacional. Enquanto isso, quanto mais inteligentes ficam os sistemas e mais sensíveis as decisões passíveis de automação, é nosso papel entender e debater os “como”s e “por quê”s desse movimento.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Dec 2017 00:00:00 -0200</pubDate>
+        <link>https://www.emperspectiva.org/2017/12/04/IA-101.html</link>
+        <guid isPermaLink="true">https://www.emperspectiva.org/2017/12/04/IA-101.html</guid>
+        
+        <category>ia</category>
+        
+        <category>inteligência artificial</category>
+        
+        <category>aprendizado de máquina</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>[Palestra] GDG DevFest BH 2017</title>
+        <description>&lt;p&gt;O &lt;a href=&quot;https://devfestbh.com.br/&quot;&gt;Devfest&lt;/a&gt; é um evento gerido pela comunidade GDG Belo Horizonte, oferecendo atividades relacionadas à tecnologia, inovação, diversidade, empreendedorismo e muitos outros assuntos. Todo conteúdo é voltado para desenvolvedores, empreendedores e entusiastas por tecnologia.&lt;/p&gt;
+
+&lt;p&gt;O tema do Devfest BH 2017 foi #wearetogether, mostrando a importância de estarmos unidos como comunidade para conquistarmos nossos objetivos. Em uma discussão sobre Inteligência Artificial, exploramos o nosso papel como desenvolvedores em estabelecer os limites que tornam tais tecnologias e suas aplicações mais ou menos éticas, conscientes e inclusivas. Nessa palestra, conversamos sobre conceitos, boas práticas e desafios no uso de dados e Inteligência Artificial.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Nov 2017 00:00:00 -0200</pubDate>
+        <link>https://www.emperspectiva.org/2017/11/18/Palestra-GDG.html</link>
+        <guid isPermaLink="true">https://www.emperspectiva.org/2017/11/18/Palestra-GDG.html</guid>
+        
+        <category>event</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>[Palestra] Big Data Week 2017</title>
+        <description>&lt;p&gt;O &lt;a href=&quot;http://sao-paulo.bigdataweek.com/&quot;&gt;Big Data Week&lt;/a&gt; é uma conferência internacional criada em Londres em 2012 e promovida em várias cidades ao redor do mundo. Ela reúne uma comunidade global de profissionais de tecnologia, entusiastas e especialistas de big data, data science e internet das coisas para discutir novas tendências, desafios e o avanço global das tecnologias e soluções.&lt;/p&gt;
+
+&lt;p&gt;Durante a quarta edição na América Latina, que aconteceu Outubro em São Paulo, falamos sobre os desafios práticos e atuais da construção e uso de sistemas de Inteligência Artificial. Exploramos como os conceitos de privacidade, fairness, accountability e transparência podem ajudar a construir IA que beneficie a humanidade.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sao-paulo.bigdataweek.com/speaker/thiago-cardoso/&quot;&gt;Leia mais&lt;/a&gt; sobre o encontro.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Oct 2017 00:00:00 -0200</pubDate>
+        <link>https://www.emperspectiva.org/2017/10/21/Palestra-Big-Data-Week.html</link>
+        <guid isPermaLink="true">https://www.emperspectiva.org/2017/10/21/Palestra-Big-Data-Week.html</guid>
+        
+        <category>event</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Homens ou Máquinas?</title>
+        <description>&lt;p&gt;É possível simular inteligência em máquinas? Computadores chegarão a ter consciência? Como posso saber se estou conversando com um computador ou com um ser humano?&lt;/p&gt;
+
+&lt;p&gt;Quem acompanhou o Oscar ano passado se lembra do filme &lt;a href=&quot;http://www.imdb.com/title/tt2084970/?ref_=fn_al_tt_1&quot;&gt;O Jogo da Imitação&lt;/a&gt;, que conta a parte da vida de Alan Turing. Um dos grandes nomes da história da Computação, Turing propôs, ainda na década de 50, um famoso teste com o objetivo de diferenciar homens de máquinas. O teste avalia a inteligência de sistemas com um simples desafio: computadores podem conversar como humanos?&lt;/p&gt;
+
+&lt;p&gt;No chamado Teste de Turing, um computador passa no teste de inteligência se um entrevistador humano, após fazer várias perguntas por texto, não consegue diferenciar se as respostas são de uma pessoa ou de um sistema.&lt;/p&gt;
+
+&lt;p&gt;Veja o video a seguir com uma breve explicação sobre o Teste de Turing.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/3wLqsRLvV-c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;div class=&quot;creditos-foto&quot;&gt;Foto por &lt;a href=&quot;https://unsplash.com/@jsclick&quot; target=&quot;_blank&quot;&gt;Jamie Saw&lt;/a&gt; no Unsplash.&lt;/div&gt;
+</description>
+        <pubDate>Tue, 03 Oct 2017 00:00:00 -0300</pubDate>
+        <link>https://www.emperspectiva.org/2017/10/03/Teste-Turing.html</link>
+        <guid isPermaLink="true">https://www.emperspectiva.org/2017/10/03/Teste-Turing.html</guid>
+        
+        <category>ia</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>[Palestra] Workshop Big Data for Measuring the Digital Economy</title>
+        <description>&lt;p&gt;Em Setembro, guiamos um laboratório sobre Ética de Dados durante o Workshop Big Data for Measuring the Digital Economy, organizado pelo &lt;a href=&quot;datapopalliance.org&quot;&gt;Data-Pop Alliance&lt;/a&gt; em parceria com a &lt;a href=&quot;https://www.cepal.org/&quot;&gt;ECLAC&lt;/a&gt; e o &lt;a href=&quot;nic.br&quot;&gt;NIC.br&lt;/a&gt;, em São Paulo.&lt;/p&gt;
+
+&lt;p&gt;Durante os três dias de evento, participantes do Governo, de empresas, da academia e da sociedade civil foram expostos a ferramentas e habilidades necessárias para o trabalho com dados para medição da economia digital.
+No terceiro dia, facilitamos uma sessão em grupo pautada no Menlo Report, que provocou uma boa conversa sobre ética, privacidade e transparência no trabalho com dados e Inteligência Artificial.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cetic.br/noticia/representantes-de-diversos-setores-participam-de-workshop-internacional-sobre-big-data-para-medicao-da-economia-digital/&quot;&gt;Leia mais&lt;/a&gt; sobre o encontro.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Sep 2017 00:00:00 -0300</pubDate>
+        <link>https://www.emperspectiva.org/2017/09/28/Palestra-Nic-BR.html</link>
+        <guid isPermaLink="true">https://www.emperspectiva.org/2017/09/28/Palestra-Nic-BR.html</guid>
+        
+        <category>event</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>[Palestra] CASE 2017</title>
+        <description>&lt;p&gt;Considerado o maior evento para startups da América Latina, o &lt;a href=&quot;https://case.abstartups.com.br/&quot;&gt;CASE&lt;/a&gt; recebeu mais de 6.000 participantes e contou com feira de negócios para startups, palco com grandes nomes do empreendedorismo e três trilhas paralelas de conteúdo.&lt;/p&gt;
+
+&lt;p&gt;Foi no Palco Hacker que compartilhamos com empreendedores um pouco sobre como construir sistemas de Inteligência Artificial de forma consciente e responsável. Cientistas de dados do mundo todo estão construindo produtos, projetos, desenhando soluções e tomando decisões importantes diariamente. Por meio da apresentação de conceitos e exemplos reais, apresentamos técnicas e boas práticas que podem ser aplicadas para tornar sistemas de IA mais transparentes, justos e responsáveis.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Sep 2017 00:00:00 -0300</pubDate>
+        <link>https://www.emperspectiva.org/2017/09/25/Palestra-CASE.html</link>
+        <guid isPermaLink="true">https://www.emperspectiva.org/2017/09/25/Palestra-CASE.html</guid>
+        
+        <category>event</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Você sabe o que é um algoritmo?</title>
+        <description>&lt;p&gt;Algoritmo é uma sequência de instruções que definem como uma tarefa qualquer deve ser executada. A tarefa pode ser tão simples quanto uma receita culinária ou tão complexa quanto pousar um foguete na lua.&lt;/p&gt;
+
+&lt;p&gt;Veja o algoritmo a seguir que poderia servir para um robô descer uma escada:&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot;&gt;&lt;code&gt;&lt;b&gt;Enquanto&lt;/b&gt; houver degraus à vista:
+		Caminhe para o degrau e desça.
+		&lt;b&gt;Se&lt;/b&gt; encontrar uma parede:
+			Vire. 
+	&lt;b&gt;Finalize.&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Essencialmente, programas de computador são compostos por algoritmos.&lt;/p&gt;
+
+&lt;div class=&quot;creditos-foto&quot;&gt;Foto por &lt;a href=&quot;https://unsplash.com/@jsclick&quot; target=&quot;_blank&quot;&gt;Jamie Saw&lt;/a&gt; no Unsplash.&lt;/div&gt;
+</description>
+        <pubDate>Sat, 02 Sep 2017 00:00:00 -0300</pubDate>
+        <link>https://www.emperspectiva.org/2017/09/02/Algoritmo.html</link>
+        <guid isPermaLink="true">https://www.emperspectiva.org/2017/09/02/Algoritmo.html</guid>
+        
+        <category>ia</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

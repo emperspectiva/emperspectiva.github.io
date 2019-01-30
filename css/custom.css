@@ -1,0 +1,129 @@
+
+.footer-inner-container {
+	margin: auto;
+}
+
+.cover-bg {
+    background-image: url(/images/pages/fullscreen-slide-1.jpg);
+    position: relative;
+    width: 100%;
+    color: #fff;
+    height:400px;
+    text-align: center;
+}
+
+.cover-bg:before {
+  opacity: 0.8;
+}
+
+.cover-title {
+    color: #fff;
+    line-height: 1.2em;
+    font-size: 2.4em;
+}
+
+.section-sub-title,
+.cover-text {
+	width: 80%;
+    font-size: 1.5em;
+    margin: auto;
+    color: #555;
+}
+
+@media (max-width: 640px) {
+    
+    .cover-title {
+        font-size:1.8em;
+    }
+
+    .cover-text {
+        font-size: 1.3em;
+    }
+
+    .what-we-do-text {
+        max-width: 80%;
+        margin: auto;
+    }
+}
+
+@media (max-width: 380px) {
+    
+    .cover-bg {
+        height: 450px;
+    }
+
+    .cover-title {
+        font-size:1.2em;
+    }
+
+    .cover-text {
+        font-size: 1em;
+    }
+
+    .what-we-do-text {
+        max-width: 80%;
+        margin: auto;
+    }
+}
+
+.mission-text {
+	text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.partners-container,
+.subscribe-form-container {
+	text-align: center;
+}
+
+.copyright {
+	text-align: center;
+}
+
+.copyright p {
+    font-size:.9em;
+}
+
+.footer-description {
+	width: 80%;
+    font-size: 1em;
+}
+
+.footer ul {
+	font-size: 1em;
+}
+
+.post-title {
+    color: #333;
+}
+
+.modTeamMember {
+    width: 80%;
+    margin: auto;
+}
+
+.blog-posts .modBlogPost {
+    width:30%;
+}
+
+.post-card .content {
+    border: 1px solid #efefef;
+}
+
+.member-description {
+    font-size: 1em;
+}
+
+.code {
+    background-color: #efefef;
+    padding: 20px 0 20px 20px;
+    overflow: scroll;
+    margin-bottom:20px;
+}
+
+.modIconText .icon-text-circle i {
+    box-sizing: content-box;
+    margin-bottom: .5rem;
+    border:none;
+}
